@@ -1,7 +1,7 @@
 <?php /*
 Plugin Name: WPAT
 Plugin URI: https://bestwebsite.com/wpat
-Description: A clean coded WordPress admin theme
+Description: A Best Website WordPress admin theme
 Version: 1.9
 Author: BESTWEBSITE
 Author URI: https://bestwebsite.com
